@@ -1,6 +1,6 @@
 
 h1 {
-    color: gray;
+    color: white;
 }
 
 button:hover {
@@ -15,7 +15,7 @@ button {
     background-color: black;
     color: yellow;
     position: absolute;
-    top: 110%;
+    top: 70%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
@@ -90,4 +90,36 @@ height: 250px;
     width: 100px;
     height: 100px;
     border-radius: 50%
+}
+
+.tour-dates {
+    width: 500px;
+    height: 600px;
+    background-color: gray;
+    color: white;
+    font-size: 20px;
+    font-family: sans-serif;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#email {
+    width: 750px;
+    height: 600px;
+    background-color: gray;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#about {
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
