@@ -7,7 +7,7 @@ button:hover {
     background-color: yellow;
     color: #000000;
 }
-button {
+#button {
     font-size: xx-large;
     font-family: sans-serif;
     width: 250px;
@@ -122,4 +122,8 @@ height: 250px;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+#ordersummary {
+    background-color: white;
+    color: black;
 }
